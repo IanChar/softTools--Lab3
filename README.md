@@ -1,2 +1,3 @@
-Ian Char -- Lab3
+Ian Char
+Git Version Control 
 Partner: Taylor Andrews
